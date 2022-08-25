@@ -17,7 +17,7 @@ while continua in 'Ss':
         if num < menor:
             menor = num
 media = soma / quant
-print('A quantidade de valores é {}'.format(quant))
-print('A média de valores é {}. '.format(media))
-print('O Maior valor é {} e o Menor {}.'.format(maior, menor))
+print(f'A quantidade de valores é {quant}.')
+print(f'A média de valores é {media}.')
+print(f'O Maior valor é {maior} e o Menor {menor}.')
 print('~' * 30)
