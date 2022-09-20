@@ -38,6 +38,7 @@ elif computador == 1: #papel
         print('O VENCEDOR DA JOGADA É JOGADOR! ')
     else:
         print('JOGAFA INVÁLIDA')
+        
 elif computador == 2:#tesoura
     if jogador == 0:
         print('O VENCEDOR DA JOGADA É JOGADOR! ')
